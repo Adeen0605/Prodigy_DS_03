@@ -1,0 +1,13 @@
+age,job,marital,education,balance,housing_loan,personal_loan,contact_type,purchase
+25,student,single,secondary,1500,no,no,cellular,yes
+35,technician,married,tertiary,3000,yes,no,cellular,yes
+45,management,married,tertiary,5000,yes,yes,telephone,yes
+30,admin,single,secondary,2000,no,no,cellular,no
+50,retired,married,secondary,1000,no,no,telephone,no
+28,services,single,secondary,1800,yes,yes,cellular,no
+40,management,married,tertiary,4200,yes,no,cellular,yes
+60,retired,married,secondary,800,no,no,telephone,no
+33,admin,single,secondary,2500,no,no,cellular,no
+48,technician,married,tertiary,3600,yes,yes,cellular,yes
+27,student,single,secondary,1200,no,no,cellular,no
+55,management,married,tertiary,6000,yes,no,telephone,yes
